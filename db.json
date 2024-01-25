@@ -1,0 +1,610 @@
+{
+  "foods": [
+    {
+      "name": "Cà chua",
+      "manufactureDate": "",
+      "expiredDate": "",
+      "weight": 600,
+      "quanity": 2,
+      "createdDate": "2024-01-24",
+      "type": "AT_HOME",
+      "id": "f1ae"
+    },
+    {
+      "id": "0765",
+      "name": "Thịt gà",
+      "manufactureDate": "2024-01-25",
+      "expiredDate": "2024-01-27",
+      "weight": 500,
+      "quanity": 1,
+      "createdDate": "2024-01-24",
+      "type": "TO_BUY"
+    },
+    {
+      "id": "bc72",
+      "name": "Thịt heo",
+      "manufactureDate": "2024-01-25",
+      "expiredDate": "2024-01-26",
+      "weight": 500,
+      "quanity": 1,
+      "createdDate": "2024-01-25",
+      "type": "TO_BUY"
+    },
+    {
+      "barcode": "8934563138165",
+      "name": "Mì gói hảo hảo vị chua cay",
+      "manufactureDate": "2023-12-19",
+      "expiredDate": "2024-05-19",
+      "weight": null,
+      "quanity": 1,
+      "type": "USED",
+      "createdDate": "2024-01-25",
+      "id": "2576"
+    },
+    {
+      "id": "1764",
+      "barcode": "8934563138165",
+      "name": "Mì gói hảo hảo vị chua cay",
+      "manufactureDate": "2023-12-19",
+      "expiredDate": "2024-05-19",
+      "weight": null,
+      "quanity": 2,
+      "type": "AT_HOME",
+      "createdDate": "2024-01-25"
+    },
+    {
+      "id": "1dc4",
+      "barcode": "8934563138165",
+      "name": "Mì gói hảo hảo vị chua cay",
+      "manufactureDate": "2023-12-19",
+      "expiredDate": "2024-05-19",
+      "weight": null,
+      "quanity": 5,
+      "type": "AT_HOME",
+      "createdDate": "2024-01-25"
+    },
+    {
+      "id": "704e",
+      "name": "Thịt heo",
+      "manufactureDate": "2024-01-24",
+      "expiredDate": "2024-01-27",
+      "weight": null,
+      "quanity": null,
+      "type": "AT_HOME",
+      "createdDate": "2024-01-25"
+    }
+  ],
+  "recipes": [
+    {
+      "id": "1",
+      "name": "Chè Bí Đỏ Khoai Lang Nấu Gừng",
+      "imageUrl": "https://img-global.cpcdn.com/recipes/b0ae6e35d0a6a7e2/680x482cq70/che-bi-d%E1%BB%8F-khoai-lang-n%E1%BA%A5u-g%E1%BB%ABng-recipe-main-photo.jpg",
+      "description": "Món chè ấm thanh cảnh rất ngon cho những ngày đông mưa lạnh, tuy nhiên bạn vẫn có thể dùng lạnh với đá vào mùa nóng.",
+      "time": "Chuẩn bị 5 phút nấu 15 phút",
+      "ingredients": [
+        "1/6 trái bí đỏ sáp",
+        "1 củ khoai lang vàng",
+        "1 khúc gừng 3 cm",
+        "Đường phèn"
+      ],
+      "steps": [
+        {
+          "text": "Cho 3 chén nước vào nấu sôi cho gừng cắt lát mỏng vào",
+          "imageUrls": [
+            "https://img-global.cpcdn.com/steps/6e7c0803922a5090/160x128cq70/che-bi-d%E1%BB%8F-khoai-lang-n%E1%BA%A5u-g%E1%BB%ABng-recipe-step-1-photo.jpg"
+          ]
+        },
+        {
+          "text": "Bí đỏ cắt con cờ cho vào nồi",
+          "imageUrls": [
+            "https://img-global.cpcdn.com/steps/a03e7e7206a71851/160x128cq70/che-bi-d%E1%BB%8F-khoai-lang-n%E1%BA%A5u-g%E1%BB%ABng-recipe-step-2-photo.jpg",
+            "https://img-global.cpcdn.com/steps/17cbd762b66e1c5d/160x128cq70/che-bi-d%E1%BB%8F-khoai-lang-n%E1%BA%A5u-g%E1%BB%ABng-recipe-step-2-photo.jpg"
+          ]
+        },
+        {
+          "text": "Để sôi lên cho khoai lang cắt con cờ vào luôn, hớt bọt nếu có, đậy nắp nấu lửa trung bình 5 phút",
+          "imageUrls": [
+            "https://img-global.cpcdn.com/steps/7c9e00a2bb67186b/160x128cq70/che-bi-d%E1%BB%8F-khoai-lang-n%E1%BA%A5u-g%E1%BB%ABng-recipe-step-3-photo.jpg"
+          ]
+        },
+        {
+          "text": "Thử thấy bí mềm thì cho đường vào nấu thêm 5 phút thì tắt lửa đậy nắp thêm 5 phút cho bí thấm ngọt, dùng nóng ấm ngày lạnh rất đã",
+          "imageUrls": [
+            "https://img-global.cpcdn.com/steps/4309918655b0806d/160x128cq70/che-bi-d%E1%BB%8F-khoai-lang-n%E1%BA%A5u-g%E1%BB%ABng-recipe-step-4-photo.jpg",
+            "https://img-global.cpcdn.com/steps/7726aa6db6086d1a/160x128cq70/che-bi-d%E1%BB%8F-khoai-lang-n%E1%BA%A5u-g%E1%BB%ABng-recipe-step-4-photo.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Lẩu Thái Chua Cay",
+      "imageUrl": "https://img-global.cpcdn.com/recipes/e7dacaa60bf1f104/680x482cq70/lẩu-thai-chua-cay-recipe-main-photo.jpg",
+      "description": "Còn gì bằng buổi tối se lạnh cả nhà quây quần bên nồi lẩu, vừa ăn vừa hít hà cay cay chua chua thơm nồng mùi sả, mình cho ít sate để em bé cũng ăn được, chúc cả nhà mình hạnh phúc.",
+      "time": "1 tiếng",
+      "ingredients": [
+        "800 gr Tôm sú",
+        "1 kg Nghêu",
+        "1/4 trái Thơm",
+        "Nấm linh chi",
+        "Nấm kim châm",
+        "Rau đồng nội (bông so đũa, điên điển, bông súng, kèo nèo, …",
+        "Rau muống 1 bó bỏ lá cắt khúc",
+        "3 trái Cà chua",
+        "1 chén Nước cốt me",
+        "Ớt sa tế1/6 trái bí đỏ sáp",
+        "1/4 trái thơm",
+        "củ hành tây",
+        "củ sắn",
+        "trái mướp hương",
+        "cây sả đập dập cắt khúc",
+        "miếng riềng xắt nhỏ",
+        "lá chúc",
+        "tươi hoặc khô"
+      ],
+      "steps": [
+        {
+          "text": "Nấu nước dùng lẩu: cho vào nồi 3 lít nước, thêm các loại rau củ nấu sôi, hạ lửa hầm 30 phút. Lược bỏ xác.",
+          "imageUrls": [
+            "https://img-global.cpcdn.com/steps/a06ac14df88eadfe/640x640sq70/photo.jpg",
+            "https://img-global.cpcdn.com/steps/d9cdbcfe44e2d85a/640x640sq70/photo.jpg"
+          ]
+        },
+        {
+          "text": "Nghêu rửa sạch. Tôm ướp hoặc để nguyên.",
+          "imageUrls": [
+            "https://img-global.cpcdn.com/steps/343343685dd1bf13/640x640sq70/photo.jpg",
+            "https://img-global.cpcdn.com/steps/a403a18c91c0924c/640x640sq70/photo.jpg"
+          ]
+        },
+        {
+          "text": "Phi thơm sả, tỏi, xào cà chua, thơm cho màu đẹp. Cho vào nồi nước lẩu nêm nếm chua cay mặn ngọt vừa đủ ăn.",
+          "imageUrls": [
+            "https://img-global.cpcdn.com/steps/71b2bccff972997f/640x640sq70/photo.jpg"
+          ]
+        },
+        {
+          "text": "Cho ra nồi lẩu, thêm tôm, nghêu, rau vv dùng kèm bún hoặc mì",
+          "imageUrls": [
+            "https://img-global.cpcdn.com/steps/72baa29ea4b46169/640x640sq70/photo.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Canh cà chua trứng",
+      "imageUrl": "https://img-global.cpcdn.com/recipes/6f3f871a6e44dc90/680x482cq70/canh-ca-chua-trứng-recipe-main-photo.jpg",
+      "description": "No description",
+      "time": "20p",
+      "ingredients": [
+        "6 trái cà",
+        "2 củ hành tây",
+        "3 trứng",
+        "1 giá mắm",
+        "1 mcf bột ngọt",
+        "3 mcf đường",
+        "4m cf hạt nêm"
+      ],
+      "steps": [
+        {
+          "text": "Bỏ dầu ăn vào xoong, chờ sôi, thêm hành tây cà vào thêm thêm 2m cf hạt nêm, xào đều tay tầm 2 phút.",
+          "imageUrls": [
+            "https://img-global.cpcdn.com/steps/daf4471952c816a8/640x640sq70/photo.jpg"
+          ]
+        },
+        {
+          "text": "Thêm nước vào, đun tới khi sôi và hành tây mềm",
+          "imageUrls": [
+            "https://img-global.cpcdn.com/steps/c8a277474b1dfe63/640x640sq70/photo.jpg"
+          ]
+        },
+        {
+          "text": "Bắt đầu nêm gia vị thêm 1 giá mắm 2m cf hạt nêm 1m cf bột ngọt 3m cf đường",
+          "imageUrls": [
+            "https://img-global.cpcdn.com/steps/619b2e83b1245937/640x640sq70/photo.jpg"
+          ]
+        },
+        {
+          "text": "Đập trứng, đánh đều, cho vào canh nêm theo khẩu vị",
+          "imageUrls": [
+            "https://img-global.cpcdn.com/steps/87098a10d6af0813/640x640sq70/photo.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Đậu hũ kho nấm rơm",
+      "imageUrl": "https://img-global.cpcdn.com/recipes/9617fe425882b17d/680x482cq70/bếp-chay-6-dậu-hu-kho-nấm-rơm-recipe-main-photo.jpg",
+      "description": "No description",
+      "time": "15p",
+      "ingredients": [
+        "200 gr Nấm rơm",
+        "2 bìa Đậu hũ (đã chiên sẵn ở chợ)",
+        "50 gr Hành lá"
+      ],
+      "steps": [
+        {
+          "text": "Đậu hũ cắt khối vuông, chiên vàng các mặt. Nấm rơm ngâm nước muối loãng rồi rửa sạch để ráo. Đầu hành thái sợi, gừng tươi thái sợi.",
+          "imageUrls": [
+            "https://img-global.cpcdn.com/steps/296778a5dfd9f0a4/640x640sq70/photo.jpg",
+            "https://img-global.cpcdn.com/steps/934a99a330c4d94f/640x640sq70/photo.jpg",
+            "https://img-global.cpcdn.com/steps/d6f0a1364b538192/640x640sq70/photo.jpg"
+          ]
+        },
+        {
+          "text": "Cho 1 muỗng dầu ăn vào nồi, cho hành trắng và gừng vào xào thơm. Sau đó cho nấm rơm vào, thêm 2 muỗng canh nước tương và 1 muỗng cafe dầu hào chay, xào khoảng 2'.",
+          "imageUrls": [
+            "https://img-global.cpcdn.com/steps/1cc16e2f3684c094/640x640sq70/photo.jpg",
+            "https://img-global.cpcdn.com/steps/5c0f2f116a9b865e/640x640sq70/photo.jpg"
+          ]
+        },
+        {
+          "text": "Tiếp tục cho hết đậu hũ đã chiên vào nồi, đảo đều. Cho 1 chén nước vào nấu sôi rồi nhỏ lửa, mở nắp kho liu riu đến khi nước còn hơi sệt là được rồi.",
+          "imageUrls": [
+            "https://img-global.cpcdn.com/steps/bbfd06ffc0f81875/640x640sq70/photo.jpg"
+          ]
+        },
+        {
+          "text": "Dọn món nấm kho đậu hũ chay ra đĩa, rắc ớt tươi và hành lá thái sợi lên. Món này ăn với cơm nóng bạn nhé!",
+          "imageUrls": [
+            "https://img-global.cpcdn.com/steps/ff3f2af5ca973c51/160x128cq70/dậu-hu-kho-nấm-rơm-recipe-step-4-photo.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Chè trái cây,thạch trân châu (giải nhiệt ngày hè)",
+      "imageUrl": "https://img-global.cpcdn.com/recipes/4ab38c36fe353595/680x482cq70/che-trai-caythạch-tran-chau-giải-nhiệt-ngay-he-recipe-main-photo.jpg",
+      "description": "No description",
+      "time": "1 tiếng",
+      "ingredients": [
+        "1 quả xoài",
+        "1 quả bơ chín",
+        "300 gram dưa hấu đỏ",
+        "100 ml Sữa đặc",
+        "1 củ dền nhỏ",
+        "200 gram Bột năng",
+        "200 gram Đường phèn",
+        "200 gram Đậu xanh cà"
+      ],
+      "steps": [
+        {
+          "text": "Xoài, bơ, dưa hấu, Cắt miếng vừa ăn",
+          "imageUrls": [
+            "https://img-global.cpcdn.com/steps/1d81effa4d720f49/160x128cq70/che-trai-caythạch-tran-chau-giải-nhiệt-ngay-he-recipe-step-1-photo.jpg"
+          ]
+        },
+        {
+          "text": "Củ dền xay nhuyễn lấy nước, rùi cho vào nồi nấu cho nóng, dùng nước màu củ dền pha với bột năng",
+          "imageUrls": [
+            "https://img-global.cpcdn.com/steps/7c95c82eadf44269/160x128cq70/che-trai-caythạch-tran-chau-giải-nhiệt-ngay-he-recipe-step-2-photo.jpg"
+          ]
+        },
+        {
+          "text": "Rui trộn bột cho dẻo sau đó lăn tròn thành viên bi, xong đem luộc nước sôi, xong đem xã nước lạnh. Cho đường vào viên trân châu",
+          "imageUrls": [
+            "https://img-global.cpcdn.com/steps/15fa82f2be1f16a8/160x128cq70/che-trai-caythạch-tran-chau-giải-nhiệt-ngay-he-recipe-step-3-photo.jpg"
+          ]
+        },
+        {
+          "text": "Buớc tiếp luộc đậu xanh chín. Cho đường vào.",
+          "imageUrls": [
+            "https://img-global.cpcdn.com/steps/dd64fed7ab865a43/160x128cq70/che-trai-caythạch-tran-chau-giải-nhiệt-ngay-he-recipe-step-4-photo.jpg"
+          ]
+        },
+        {
+          "text": "Rùi cho 500 mL nước nấu cùng đường phèn, cho thêm sữa đặc. Cho đặc lai. Để nguội, cho phần trái cây vào cho ngấm nước đường, sữa đặc",
+          "imageUrls": [
+            "https://img-global.cpcdn.com/steps/b57abac1b747d5d8/640x640sq70/photo.jpg"
+          ]
+        },
+        {
+          "text": "Sau đó ta múc trân châu củ dền vào, cho tiếp đậu xanh ít đá viên.tiếp đến cho phần chè trái cây lên trên mặt. Và xong",
+          "imageUrls": [
+            "https://img-global.cpcdn.com/steps/1bdc4b51a7589a61/640x640sq70/photo.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "name": "Thịt Heo Xào Cà Chua",
+      "imageUrl": "https://img-global.cpcdn.com/recipes/f07b55c2681a0632/680x482cq70/sp0800-thịt-heo-xao-ca-chua-recipe-main-photo.jpg",
+      "description": "với sắc màu đỏ rực rỡ của cà chua tạo nên sự may mắn cho sự khởi đầu mới. Mình thích cà chua vì đây là nguyên liệu dễ ăn nhất, ta có thể ăn sống hoặc nấu chín",
+      "time": "30p",
+      "ingredients": [
+        "250 g thịt heo",
+        "3 trái cà chua",
+        "2 tép tỏi",
+        "Vài nhánh ngò gai",
+        "Dầu ăn",
+        "Gia vị"
+      ],
+      "steps": [
+        {
+          "text": "Phi thơm hành tỏi, cho thịt vào xào Nui Ống Sốt Thịt Heo Xào Cà Chua bước làm 1 hình",
+          "imageUrls": [
+            "https://img-global.cpcdn.com/steps/bc1a157e4868ea06/640x640sq70/photo.jpg",
+            "https://img-global.cpcdn.com/steps/ab84942b0e547134/640x640sq70/photo.jpg",
+            "https://img-global.cpcdn.com/steps/d239cd942bdeb31d/640x640sq70/photo.jpg"
+          ]
+        },
+        {
+          "text": "Cho cà chua vào chảo xào chung, thêm 1 mc lá khô estragon. Nêm nếm với mắm, muối, đường, thịt sẽ ra nước, đậy nắp lại hầm lửa nhỏ 10 phút cho thịt mềm.",
+          "imageUrls": [
+            "https://img-global.cpcdn.com/steps/9d47b64a7f6ba25e/640x640sq70/photo.jpg",
+            "https://img-global.cpcdn.com/steps/8bca639d2553a879/640x640sq70/photo.jpg"
+          ]
+        },
+        {
+          "text": "Trong thời gian xào thịt thì luộc nui Nui chín cho ra dĩa Rắc phô mai emmental bào lên",
+          "imageUrls": [
+            "https://img-global.cpcdn.com/steps/a402a8d5d26ad470/640x640sq70/photo.jpg"
+          ]
+        },
+        {
+          "text": "Cho thịt xào lên top, rắc tiêu dùng nóng.",
+          "imageUrls": [
+            "https://img-global.cpcdn.com/steps/23b1cd5c860746d3/640x640sq70/photo.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "name": "Cơm Chiên Ớt",
+      "imageUrl": "https://img-global.cpcdn.com/recipes/b21352fd600a3df9/680x482cq70/cơm-chien-ớt-paprika-recipe-main-photo.jpg",
+      "description": "Món cơm chiên đỏ chót nhưng không cay, lại thơm mùi ớt ngọt để đổi món cho những ngày thích cơm chiên nhưng muốn thêm ít màu mè.",
+      "time": "30p",
+      "ingredients": [
+        "2-3 trái ớt Paprika (hay ớt chuông đỏ)",
+        "2-3 tép tỏi",
+        "2 chén cơm nguội",
+        "1 mc bột ớt paprika",
+        "1/2 mc dầu hạt nho",
+        "1/3 mcf muối",
+        "1/4 mcf bột ngọt"
+      ],
+      "steps": [
+        {
+          "text": "Phi thơm hành tỏi",
+          "imageUrls": [
+            "https://img-global.cpcdn.com/steps/643ec19d358c2031/640x640sq70/photo.jpg"
+          ]
+        },
+        {
+          "text": "Ớt paprika cắt hạt lựu cho vào chung với tỏi, để lửa nhỏ xào đến khi ớt xém cạnh",
+          "imageUrls": [
+            "https://img-global.cpcdn.com/steps/fa95efd7ebece9b6/640x640sq70/photo.jpg"
+          ]
+        },
+        {
+          "text": "Cơm nguội cho vào, mình dùng cơm hỗn hợp gạo basmati, basmati nguyên cám và ít gạo tím nên màu lạ lạ thôi, dùng cơm nguội là được, loại gạo hạt rời không dính sẽ chiên ngon hơn.",
+          "imageUrls": [
+            "https://img-global.cpcdn.com/steps/b1f20df9ab6c6882/640x640sq70/photo.jpg"
+          ]
+        },
+        {
+          "text": "Bày ra dĩa trang trí như ý muốn.",
+          "imageUrls": [
+            "https://img-global.cpcdn.com/steps/1b425ac62c282571/640x640sq70/photo.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "name": "Canh rau thập cẩm",
+      "imageUrl": "https://img-global.cpcdn.com/recipes/b38b8472e7e8591b/680x482cq70/canh-rau-thập-cẩm-recipe-main-photo.jpg",
+      "description": "Hậu của bữa tiệc tùng lẩu thập cẩm cuối tuần bao giờ cũng để lại 1 cơ số đồ thừa. Nhất là đồ chưa qua sơ chế vì cứ làm nguyên liệu này xong là thấy khay đựng đồ đầy ú ụ nên đến nguyên liệu sau lại bị bớt lại. Cứ thế bớt lại bớt lại và hậu quả các bà bạn thân để lại trong tủ lạnh của mình là 1 mớ rau củ hỗn độn rất oái ăm. Mỗi thứ 1 tí 😀. Chẳng có lẽ lại đi mua thêm từng thứ nhiều lên để nấu ra tấm ra món 😂. Cách xử lý chỉ có thể cho vào làm nồi thập cẩm version 2.0 thôi chứ hông biết làm sao.",
+      "time": "30p",
+      "ingredients": [
+        "Nước dùng gà",
+        "Rau các loại",
+        "Hành lá",
+        "Cà chua"
+      ],
+      "steps": [
+        {
+          "text": "Ở đây mình được để dành lại 1 củ khoai, 1 bắp ngô mỹ, ít đỗ que, 1/4 củ cà rốt, 1/2 quả bí ngòi. Mình đem sơ chế, rửa sạch và cắt khối đều đều nhau. Cho 500ml nước dùng gà vào nồi đun sôi với ít gia vị. Sau đó cho các loại củ vào trước.",
+          "imageUrls": [
+            "https://img-global.cpcdn.com/steps/19e0beecf86fd8f5/640x640sq70/photo.jpg",
+            "https://img-global.cpcdn.com/steps/c5a3c8a10042b663/640x640sq70/photo.jpg"
+          ]
+        },
+        {
+          "text": "Ninh củ tầm 5-8 phút cho chín thì cho bắp ngô vào nấu sôi 3 phút. Cuối cùng cho rau màu xanh là đỗ và bí vào. Cho thêm cà chua bổ múi cau nữa các bạn nhé.",
+          "imageUrls": [
+            "https://img-global.cpcdn.com/steps/a3090a04589164be/640x640sq70/photo.jpg"
+          ]
+        },
+        {
+          "text": "Sau khi nấu rau củ xong mình nêm nếm lại cho vị vừa ăn nhé. Giờ thì múc canh thập cẩm ra bát và rắc ít hành, hạt tiêu lên cho thơm nào 😊🥘",
+          "imageUrls": [
+            "https://img-global.cpcdn.com/steps/03349ded2eb26f09/640x640sq70/photo.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "name": "Thịt Sườn Non Kho Tiêu",
+      "imageUrl": "https://img-global.cpcdn.com/recipes/7f3ff2198901f142/680x482cq70/thịt-sườn-non-kho-tieu-recipe-main-photo.jpg",
+      "description": "Sườn non của heo mua về, ta có thể lọc ra thành hai phần. Phần xương có thể dùng nấu súp với các loại rau củ… Còn phần thịt từ sườn non, có lẫn mỡ và nạc, ta có thể dùng để chế biến món kho tiêu khá ngon và đơn giản.",
+      "time": "30p",
+      "ingredients": [
+        "300 gam thịt sườn non heo (đã lóc bỏ phần xương)",
+        "1/2 chén nước mắm ngon",
+        "1/2 tbsp nước màu dừa",
+        "4 tbsp mỡ nước",
+        "1 tbsp dầu hào",
+        "1/2 tbsp hắc xì dầu",
+        "1 tbsp hành tím băm",
+        "1 tbsp tỏi băm",
+        "2 tsp tiêu xay",
+        "4 tbsp đường cát",
+        "1 tsp hạt nêm",
+        "1/2 tsp bột ngọt"
+      ],
+      "steps": [
+        {
+          "text": "Phần thịt đã lóc ra, chúng ta mang rửa sạch và để ráo nước. Sau đó, ta cắt thành miếng vừa ăn và ướp thịt với: 1/2tbsp nước màu dừa + 1tsp hạt nêm + 4tbsp đường cát + 1/2tsp bột ngọt + 1/2tbsp hành tím băm + 1/2tbsp tỏi băm + 1tsp tiêu xay + 2tbsp mỡ nước + 1tbsp dầu hào + 1/2 chén nước mắm + 1/2tbsp hắc xì dầu… Trộn đều và để vào ngăn mát tủ lạnh khoảng 2 tiếng cho thịt thấm.",
+          "imageUrls": [
+            "https://img-global.cpcdn.com/steps/4037da519db1aac6/640x640sq70/photo.jpg",
+            "https://img-global.cpcdn.com/steps/6c84efeb4f4b050e/640x640sq70/photo.jpg"
+          ]
+        },
+        {
+          "text": "Bắc chảo sâu lòng lên bếp. Cho vào 2tbsp mỡ nước. Khi mỡ nóng, ta cho 1/2tbsp hành tím băm + 1/2tbsp tỏi băm vào phi. Khi hành tỏi đã thơm, ta trút toàn bộ phần thịt đã ướp vào chảo, đảo nhanh cho thịt săn lại. Khi thịt đã chín đều, ta hạ nhiệt độ bếp nhỏ, để lửa riu riu, kho cho thấm. Trong quá trình kho, thỉnh thoảng, ta châm thêm một ít nước sôi vào để tránh nước bị cạn.",
+          "imageUrls": [
+            "https://img-global.cpcdn.com/steps/037d02b1ceb6af4a/640x640sq70/photo.jpg"
+          ]
+        },
+        {
+          "text": "Kho đến khi thịt mềm và thấm vị, nước sốt hơi sánh lại màu cánh gián thì tắt bếp, rắc thêm một ít tiêu xay. Món này dùng với cơm trắng rất ngon…",
+          "imageUrls": [
+            "https://img-global.cpcdn.com/steps/427d4dc7baf6b822/640x640sq70/photo.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "name": "Thịt xá xíu",
+      "imageUrl": "https://img-global.cpcdn.com/recipes/1fdcc8f653a5410d/680x482cq70/thịt-xa-xiu-cong-thức-dơn-giản-recipe-main-photo.jpg",
+      "description": "Làm nhanh mà vẫn bảo đảm hương vị đầy đủ. Tết mình rim để sẵn ngăn mát ăn cũng được 5 ngày. Định lượng 1 muỗng = 15ml",
+      "time": "30p",
+      "ingredients": [
+        "600 gr thịt ba rọi hoặc đùi",
+        "2 - 3 tép Tỏi khô",
+        "1 miếng nhỏ Gừng",
+        "2 - 3 củ Hành khô",
+        "3 muỗng Nước sốt xá xíu",
+        "1/2 muỗng Nước mắm",
+        "1.5 muỗng Đường",
+        "1 xíu Bột ngọt",
+        "2/3 chén Nước sôi",
+        "1/2 muỗng Hắc xì dầu"
+      ],
+      "steps": [
+        {
+          "text": "Thịt heo rửa sạch để thật ráo thái độ dày vừa ăn như hình. Ba rọi sẽ ngon mềm hơn đùi. Bỏ dầu vào chiên sơ cho vàng 4 mặt rồi vớt ra. Hành tỏi gừng lượng như hình, đập dập không băm nhuyễn",
+          "imageUrls": [
+            "https://img-global.cpcdn.com/steps/5b81b26148dea45d/640x640sq70/photo.jpg",
+            "https://img-global.cpcdn.com/steps/ddedc564ffd85c77/640x640sq70/photo.jpg",
+            "https://img-global.cpcdn.com/steps/047c6012ad5950f4/640x640sq70/photo.jpg"
+          ]
+        },
+        {
+          "text": "Chuẩn bị nước sốt ra chén: 3 muỗng sốt xá xíu, 2 muỗng xì dầu, 1/2 muỗng hắc xì dầu, 1/2 muỗng mắm, 1,5 muỗng đường, 1 xíu bột ngọt, 2/3 chén nước sôi quấy đền hỗn hơn. Trút bớt lượng dầu trong chảo ra, để lại tầm 2 muỗng canh dầu, phi thơm tỏi gừng rồi đổ nước sốt vào.",
+          "imageUrls": [
+            "https://img-global.cpcdn.com/steps/4f43e7b16831d595/640x640sq70/photo.jpg",
+            "https://img-global.cpcdn.com/steps/020f5a2fa1c3391a/640x640sq70/photo.jpg"
+          ]
+        },
+        {
+          "text": "Mở lửa lớn cho sốt sôi thì vặn nhỏ rồi cho thịt vào. Ta sẽ rim trong chảo sâu lòng để thịt được ngập. Đun nhỏ lửa cho đến khi sốt sệt lại. Nhớ trở để thịt được ngấm đều. Lúc này thể nêm nếm lại cho vừa ăn.",
+          "imageUrls": [
+            "https://img-global.cpcdn.com/steps/2fc4ae5b3fc61569/640x640sq70/photo.jpg"
+          ]
+        },
+        {
+          "text": "Nếu ăn cay thì đập dập 2-3 trái ớt vào rim cùng. Có thể thay thế nước sôi bằng nước dừa sẽ thơm ngon hơn nhưng bảo quản không được lâu.",
+          "imageUrls": [
+            "https://img-global.cpcdn.com/steps/30d515d7935e651a/640x640sq70/photo.jpg"
+          ]
+        },
+        {
+          "text": "Thịt xá xíu ăn kèm dưa chua cơm nóng hoặc bánh mì đều ngon",
+          "imageUrls": [
+            "https://img-global.cpcdn.com/steps/9b91ddb45397fd2b/640x640sq70/photo.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "name": "Sữa tươi chiên đơn giản",
+      "imageUrl": "https://img-global.cpcdn.com/recipes/b4b5c39689f2c8e8/680x482cq70/sữa-tươi-chien-dơn-giản-recipe-main-photo.jpg",
+      "description": "Tui coi được Tiktok của anh Thiện Nhân và thấy công thức siêu đơn giản dễ làm mà còn auto thành công nè.",
+      "time": "30p",
+      "ingredients": [
+        "5 quả trứng gà ta= 3 quả trứng gà thường",
+        "1 ống vani",
+        "50 g sữa đặc",
+        "1 gói bột bắp (không có thì xài bột năng cũng oke luôn)",
+        "2 bịch sữa tươi không đường (có đường cũng oke nha)",
+        "150 g Bột mì hoa ngọc lan hoặc đa dụng đều được",
+        "1 gói bột chiên xù"
+      ],
+      "steps": [
+        {
+          "text": "PHẦN NHÂN: Cho lần lượt 4 quả trứng gà ta (2 quả trứng gà thường) + 1 ống vani + 50g sữa đặc => trộn đều",
+          "imageUrls": [
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHvqxroDj2xVWNbZ0J780bVxDwaKFhVSua2w&usqp=CAU"
+          ]
+        },
+        {
+          "text": "Sau khi trộn đều bước 1 thì cho 80 g bột bắp (bột năng) => trộn đều. Tiếp theo cho tiếp 2 bịch sữa tươi không đường (có đường) => trộn đều lần nữa để có hỗn hợp lỏng mịn không cợn. Tips: có thể thêm1-2 muỗng cf đường cát nếu thích ngọt hơn nha",
+          "imageUrls": [
+            "https://img-global.cpcdn.com/steps/30da97e2b7f7b912/640x640sq70/photo.jpg"
+          ]
+        },
+        {
+          "text": "Lấy 1 cái khay/hộp/khuôn mà nhà bạn có bôi lên 1 chút dầu ăn để dễ lấy phần nhân ra khi làm cũng như tránh dính bừa bãi mất vệ sinh nè. Cho lên bếp với lửa vừa và khuấy liên tục đến khi hỗn hợp đặc lại như hình nha",
+          "imageUrls": [
+            "https://img-global.cpcdn.com/steps/781fd417f8b7e55b/640x640sq70/photo.jpg",
+            "https://img-global.cpcdn.com/steps/71be3ffb4c59c543/640x640sq70/photo.jpg"
+          ]
+        },
+        {
+          "text": "Sau khi hỗn hợp đặc thì cho ra khuôn đã bôi dầu trước đó và dùng muỗng đè ép cho bằng mặt là được.BỎ VÀO NGĂN MÁT TỦ LẠNH 2-3H LÀ XONG PHẦN NHÂN RÒI HIHI. Huhu chụp vội không ngay hình được xin thứ lỗi",
+          "imageUrls": [
+            "https://img-global.cpcdn.com/steps/e388d0a11de8daf0/640x640sq70/photo.jpg"
+          ]
+        },
+        {
+          "text": "Có thể dùng chung với tương ớt hoặc ăn không cũng khá ngon nè",
+          "imageUrls": [
+            "https://img-global.cpcdn.com/steps/1158550a5ec81561/640x640sq70/photo.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "name": "Thịt kho trứng cút",
+      "imageUrl": "https://img-global.cpcdn.com/recipes/9e1f8eebce0c401a/680x482cq70/thịt-kho-trứng-cut-recipe-main-photo.jpg",
+      "description": "Tui coi được Tiktok của anh Thiện Nhân và thấy công thức siêu đơn giản dễ làm mà còn auto thành công nè.",
+      "time": "30p",
+      "ingredients": [
+        "500 g thịt ba chỉ",
+        "200 g Trứng cút",
+        "Dầu ăn, bột canh, hạt nêm, bột ngọt, nước hàng, đường kính"
+      ],
+      "steps": [
+        {
+          "text": "Luộc trứng cút: trứng cút luộc nên cho 1 chút dấm, đảo đều tay đến lúc chín(làm như vậy khi trứng chín phần lòng đỏ sẽ ở chính giữa, khi chiên sẽ không bị vỡ lòng đỏ ra) chiên với chút dầu ăn đảo vòng tròn đều tay đến lúc vàng.",
+          "imageUrls": [
+            "https://img-global.cpcdn.com/steps/d4dac9c8c2293673/640x640sq70/photo.jpg"
+          ]
+        },
+        {
+          "text": "Kho thịt: bắc nồi hoặc chảo sâu lòng, cho chút dầu ăn cho 2 thìa cà phê đường đảo đến khi vàng cánh rán, rồi đổ thịt vào xào săn thịt, sau đó cho khoảng 300ml nước vào đun sôi khoảng 15 phút rồi đổ trứng đã chiên vào đến khi thịt mềm hoặc nước kho sền sệt thì tắt bếp",
+          "imageUrls": [
+            "https://img-global.cpcdn.com/steps/a96f1e256991e1f9/640x640sq70/photo.jpg"
+          ]
+        },
+        {
+          "text": "Bước này xúc ra bát và thưởng thức thôi ạ",
+          "imageUrls": [
+            "https://img-global.cpcdn.com/steps/e1cddc8ceeda89f6/640x640sq70/photo.jpg"
+          ]
+        }
+      ]
+    }
+  ]
+}
